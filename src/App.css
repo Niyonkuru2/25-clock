@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  justify-content: center;
+  text-align: center;
+  margin-top:150px;
+  border: 2px solid green;
+  width: 250px;
+  margin: auto;
+  background-color: grey;
+  border-radius: 4px;
+  height: 250px;
+}
